@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1070640203189",
+    "project_id": "investment-91a51",
+    "storage_bucket": "investment-91a51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070640203189:android:ad2c12dbd611f0bce405fc",
+        "android_client_info": {
+          "package_name": "com.example.investment_agro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkvgJ5v7MHlqfVdHVHw3Fkt3TuCNFQj10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
